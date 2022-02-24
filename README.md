@@ -1,6 +1,6 @@
 # Hello
 
-I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity.
+I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
 Visit my itch.io page.  
 [![Find me on itch.io](itch.png)](https://namesnotsteve.itch.io)
