@@ -2,7 +2,7 @@
 
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
-Visit my itch.io page.
+Visit my profiles elsewhere:
 
 <img src="https://static.itch.io/images/logo-white-new.svg" height="36" href="https://namesnotsteve.itch.io"/>
 
