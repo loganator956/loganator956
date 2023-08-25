@@ -6,9 +6,9 @@ I am a game developer currently studying Games Computing at University of Lincol
 
 ### Visit my profiles elsewhere:
 
-<a href="https://namesnotsteve.itch.io"><img src="https://static.itch.io/images/logo-white-new.svg" height="36"/></a>
-
-<a href="https://www.freecodecamp.org/fcc54608d7e-b293-40fb-ba09-ac45be223b8c"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.svg" height="36"/></a>
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://namesnotsteve.itch.io)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcc54608d7e-b293-40fb-ba09-ac45be223b8c)
+[![WakaTime](https://img.shields.io/badge/WakaTime-grey?style=for-the-badge&logo=WakaTime)](https://wakatime.com/@loganator956)
 
 ### View my Projects
 
