@@ -1,6 +1,5 @@
 # Hello
 
-![GitHub stats](https://github-readme-stats-delta-woad.vercel.app/api?username=loganator956&show_icons=true&theme=transparent)  
 [![Top Langs](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
