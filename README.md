@@ -1,6 +1,6 @@
 # Hello
 
-[![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&hide_border=true&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
