@@ -1,20 +1,12 @@
 # Hello
 
-<!--START_SECTION:waka-->
+[![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-```txt
-PowerShell   2 hrs 50 mins   ███████████████████████▒░   93.76 %
-Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Assembly     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-```
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/5afe299e-7223-4772-b60d-a7e0c5c8881b.svg)](https://wakatime.com/@5afe299e-7223-4772-b60d-a7e0c5c8881b)
 
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
-Visit my profiles elsewhere:
+### Visit my profiles elsewhere:
 
 <a href="https://namesnotsteve.itch.io"><img src="https://static.itch.io/images/logo-white-new.svg" height="36"/></a>
 
