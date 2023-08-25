@@ -1,5 +1,8 @@
 # Hello
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
 Visit my profiles elsewhere:
