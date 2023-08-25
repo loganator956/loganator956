@@ -1,15 +1,12 @@
 # Hello
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="400" height="300" src="https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&langs_count=6&theme=transparent"/>
-    
-</p>
-<figure><embed width="400" src="https://wakatime.com/share/@loganator956/90a762ce-12f6-4751-8c11-437718c257c1.svg"></embed></figure>
-<figure><embed width="400" src="https://wakatime.com/share/@loganator956/e4f11f35-0b1d-45d9-be07-886ab36e580f.svg"></embed></figure>
+[![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/5afe299e-7223-4772-b60d-a7e0c5c8881b.svg)](https://wakatime.com/@5afe299e-7223-4772-b60d-a7e0c5c8881b)
 
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
-Visit my profiles elsewhere:
+### Visit my profiles elsewhere:
 
 <a href="https://namesnotsteve.itch.io"><img src="https://static.itch.io/images/logo-white-new.svg" height="36"/></a>
 
