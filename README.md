@@ -2,8 +2,6 @@
 
 [![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/5afe299e-7223-4772-b60d-a7e0c5c8881b.svg)](https://wakatime.com/@5afe299e-7223-4772-b60d-a7e0c5c8881b)
-
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
 ### Visit my profiles elsewhere:
