@@ -1,6 +1,15 @@
 # Hello
 
 <!--START_SECTION:waka-->
+
+```txt
+PowerShell   2 hrs 50 mins   ███████████████████████▒░   93.76 %
+Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Assembly     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+```
+
 <!--END_SECTION:waka-->
 
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
