@@ -17,8 +17,8 @@ I am a game developer currently studying Games Computing at University of Lincol
 #### Game Projects
 
 - 🎮⭐ [Unity Character Systems](https://github.com/loganator956/Character-Systems) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/Character-Systems)](https://github.com/loganator956/Character-Systems/releases/latest)
-- 🎮🚧 [Unity VR Utilities](https://github.com/loganator956/unity-vr-utilities) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/unity-vr-utilities)](https://github.com/loganator956/unity-vr-utilities/releases/latest)
-- 🎮 [Unexpected Results](https://github.com/loganator956/unexpected-results) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/unexpected-results)](https://github.com/loganator956/unexpected-results/releases/latest) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://tortoisesystem.itch.io/unexpected-results)
+- 🎮🚧 [Unity VR Utilities](https://github.com/loganator956/unity-vr-utilities) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/unity-vr-utilities)](https://github.com/loganator956/unity-vr-utilities/releases/latest) 
+- 🎮 [Unexpected Results](https://github.com/loganator956/unexpected-results) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/unexpected-results)](https://github.com/loganator956/unexpected-results/releases/latest) <a href="https://tortoisesystem.itch.io/unexpected-results"><img height="19" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 
 #### Mini Tools
 
