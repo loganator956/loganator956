@@ -24,3 +24,4 @@ These are some smaller utility tools I made mostly to ease my workflow or solve 
 
 - 🔨🎮 [Minecraft Modpack Install Script](https://github.com/loganator956/mc-autosetup) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/mc-autosetup)](https://github.com/loganator956/mc-autosetup/releases/latest)
 - 🔨 [File Distributor](https://github.com/loganator956/file-distributor) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/file-distributor)](https://github.com/loganator956/file-distributor/releases/latest)
+- 🔨 [Powershell Snapchat Memories Downloader](https://github.com/loganator956/ps-snapchat-memories) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/ps-snapchat-memories)](https://github.com/loganator956/ps-snapchat-memories/releases/latest)
