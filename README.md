@@ -1,6 +1,6 @@
 # Hello
 
-[![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&hide_border=true&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats-delta-woad.vercel.app/api/top-langs/?username=loganator956&layout=donut&hide_border=true&langs_count=6&theme=transparent&hide=mathematica)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a game developer currently studying Games Computing at University of Lincoln. I like to make games in Unity and various other things. 
 
@@ -24,6 +24,4 @@ These are some smaller utility tools I made mostly to ease my workflow or solve 
 
 - 🔨🎮 [Minecraft Modpack Install Script](https://github.com/loganator956/mc-autosetup) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/mc-autosetup)](https://github.com/loganator956/mc-autosetup/releases/latest)
 - 🔨 [File Distributor](https://github.com/loganator956/file-distributor) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/file-distributor)](https://github.com/loganator956/file-distributor/releases/latest)
-- 🔨 [File Date Sync](https://github.com/loganator956/filedatesync) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/filedatesync)](https://github.com/loganator956/filedatesync/releases/latest)
-- 🔨 [Git Launcher](https://github.com/loganator956/git-launcher) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/git-launcher)](https://github.com/loganator956/git-launcher/releases/latest)
-- 🔨 [VS Code Portable Launcher](https://github.com/loganator956/code-launcher) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/code-launcher)](https://github.com/loganator956/code-launcher/releases/latest)
+- 🔨 [Powershell Snapchat Memories Downloader](https://github.com/loganator956/ps-snapchat-memories) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/ps-snapchat-memories)](https://github.com/loganator956/ps-snapchat-memories/releases/latest)
