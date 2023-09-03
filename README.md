@@ -24,6 +24,3 @@ These are some smaller utility tools I made mostly to ease my workflow or solve 
 
 - 🔨🎮 [Minecraft Modpack Install Script](https://github.com/loganator956/mc-autosetup) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/mc-autosetup)](https://github.com/loganator956/mc-autosetup/releases/latest)
 - 🔨 [File Distributor](https://github.com/loganator956/file-distributor) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/file-distributor)](https://github.com/loganator956/file-distributor/releases/latest)
-- 🔨 [File Date Sync](https://github.com/loganator956/filedatesync) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/filedatesync)](https://github.com/loganator956/filedatesync/releases/latest)
-- 🔨 [Git Launcher](https://github.com/loganator956/git-launcher) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/git-launcher)](https://github.com/loganator956/git-launcher/releases/latest)
-- 🔨 [VS Code Portable Launcher](https://github.com/loganator956/code-launcher) [![GitHub release (with filter)](https://img.shields.io/github/v/release/loganator956/code-launcher)](https://github.com/loganator956/code-launcher/releases/latest)
